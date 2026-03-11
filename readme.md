@@ -66,7 +66,6 @@ GoodFoods is a conversational AI that helps users discover restaurants and book 
 - Value:
   - Increase conversion (guided flows + quick suggestions)
   - Reduce staffing costs (self-serve bookings)
-  - Improve CX (consistent answers, instant confirmations)
 - KPIs: conversion rate, bookings completed, average time-to-book, deflection from human agents.
 
 ### Assumptions
